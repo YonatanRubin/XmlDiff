@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDiff", "XmlDiff\XmlDiff.csproj", "{CE57C780-4D45-4585-925E-9125BCDBD17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDiff.Tests", "XmlDiff.Tests\XmlDiff.Tests.csproj", "{EF480CFD-4964-4DB9-B8C4-5BCC13D84DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE57C780-4D45-4585-925E-9125BCDBD17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE57C780-4D45-4585-925E-9125BCDBD17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE57C780-4D45-4585-925E-9125BCDBD17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE57C780-4D45-4585-925E-9125BCDBD17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF480CFD-4964-4DB9-B8C4-5BCC13D84DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF480CFD-4964-4DB9-B8C4-5BCC13D84DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF480CFD-4964-4DB9-B8C4-5BCC13D84DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF480CFD-4964-4DB9-B8C4-5BCC13D84DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

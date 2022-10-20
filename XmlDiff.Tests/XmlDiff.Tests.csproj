@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <LangVersion>9</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DeepEqual" Version="1.5.0" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+      <PackageReference Include="NUnit" Version="3.13.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\XmlDiff\XmlDiff.csproj" />
+    </ItemGroup>
+
+</Project>
